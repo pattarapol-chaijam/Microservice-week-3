@@ -29,4 +29,3 @@ export class CatsService {
     return `This action removes a #${id} cat`;
   }
 }
-
